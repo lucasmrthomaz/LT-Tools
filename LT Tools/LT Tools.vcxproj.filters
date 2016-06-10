@@ -46,9 +46,6 @@
     <ClCompile Include="ApplicationMenu.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="IMenu.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Image Include="app.ico">
